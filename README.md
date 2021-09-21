@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kakoii
+- 👀 I’m interested in web development and software design.
+- 🌱 I’m currently learning front end engineering, css, html, java and eventually python.
+- 💞️ I’m looking to collaborate on small projects just to learn from more experienced people.
+- 📫 How to reach me: add me on discord Kakoii#6666 I accept all friend requests.
